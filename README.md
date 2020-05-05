@@ -1,6 +1,6 @@
 # sao-js-skeleton
 
-> my basic JS skeleton
+> Minimal JS skeleton
 
 ## Usage
 
