@@ -1,5 +1,6 @@
 {
-  "name": "validate-bpmn-x-gates",
+  "name": "<%= name %>",
+  "description": "<%= description %>",
   "version": "0.0.1",
   "main": "src/main.js",
   "author": "<%= username %> <<%= email %>>",
