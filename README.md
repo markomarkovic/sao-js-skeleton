@@ -4,18 +4,8 @@
 
 ## Usage
 
-Install [SAO](https://github.com/saojs/sao) first.
-
 ```bash
-yarn global add sao
-# or
-npm i -g sao
-```
-
-### From git
-
-```bash
-sao markomarkovic/sao-js-skeleton my-project
+npx sao markomarkovic/sao-js-skeleton my-project
 ```
 
 ## License
