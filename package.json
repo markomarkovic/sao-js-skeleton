@@ -13,6 +13,6 @@
     "template"
   ],
   "devDependencies": {
-    "sao": "1.7.0"
+    "sao": "1.7.1"
   }
 }
