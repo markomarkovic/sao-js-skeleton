@@ -14,5 +14,9 @@
   ],
   "devDependencies": {
     "sao": "1.7.1"
+  },
+  "resolutions": {
+    "bl": ">=4.0.3",
+    "dot-prop": ">=5.1.1"
   }
 }
