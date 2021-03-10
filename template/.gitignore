@@ -6,3 +6,6 @@
 
 # Node
 node_modules/
+
+# Husky
+/.husky/_
